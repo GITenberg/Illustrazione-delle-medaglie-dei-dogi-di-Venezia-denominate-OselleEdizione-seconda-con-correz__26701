@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32186'
     url: http://www.gutenberg.org/2009/agents/32186
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26701#Illustrazione-delle-medaglie-dei-dogi-di-Venezia-denominate-OselleEdizione-seconda-con-correz_
 gutenberg_bookshelf: IT Numismatica
 gutenberg_issued: '2008-09-25'
 gutenberg_type: Text
