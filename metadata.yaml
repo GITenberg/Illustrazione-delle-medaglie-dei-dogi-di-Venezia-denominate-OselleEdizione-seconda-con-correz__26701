@@ -1,0 +1,30 @@
+_repo: Illustrazione-delle-medaglie-dei-dogi-di-Venezia-denominate-OselleEdizione-seconda-con-correz__26701
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Manin, Leonardo
+    birthdate: 1771
+    deathdate: 1863
+    gutenberg_agent_id: '32186'
+    url: http://www.gutenberg.org/2009/agents/32186
+description: ''
+gutenberg_bookshelf: IT Numismatica
+gutenberg_issued: '2008-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26701'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Medals -- Italy -- Venice'
+- !lcsh 'Venice (Italy) -- Kings and rulers'
+- !lcc 'CJ'
+title: 'Illustrazione delle medaglie dei dogi di Venezia denominate Oselle
+
+  Edizione seconda con correzioni ed aggiunte'
+url: http://www.gutenberg.org/ebooks/26701
